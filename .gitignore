@@ -1,0 +1,57 @@
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Dotnet CLI
+*.dbmdl
+*.pdb
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.psmdcp
+*.lock.json
+project.lock.json
+
+# Logs
+*.log
+
+# Others
+*.vs/
+*.DS_Store
+*.swp
+*.tmp
+*.bak
+
+# Environment
+.env
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+
+# Auto-generated secrets and user config
+secrets.json
